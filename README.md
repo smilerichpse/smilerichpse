@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smilerichpse
 - 👀 I’m interested in Machine Learing
-- 🌱 I’m currently learning about Tensorlflow
-- 💞️ I’m looking to collaborate on Tensorlflow working
+- 🌱 I’m currently learning about Tensorlflow and Pytorch
+- 💞️ I’m looking to collaborate on Tensorlflow and Pytorch working
 - 📫 How to reach me is emailing to smile0707@gmail.com
 
 <!---
